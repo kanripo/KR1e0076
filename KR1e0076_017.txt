@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正傳
-#+DATE: 2015-09-23 09:40:12
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:15:45.808414
+#+PROPERTY: ID KR1e0076
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1e0076_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋正傳卷十七　　　　明　湛若水　撰¶
@@ -740,4 +742,3 @@
 　出奔而其君不免失身見弑之禍宜矣愚謂書以官¶
 　乃據實詳記史之文耳何繫於義耶¶
 　春秋正傳卷十七¶
-

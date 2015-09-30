@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋正傳
-#+DATE: 2015-09-23 09:40:12
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:15:45.570904
+#+PROPERTY: ID KR1e0076
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0076_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋正傳卷四　　　　　明　湛若水　撰¶
@@ -416,4 +418,3 @@
 　也疑之也而以此説春秋可乎以其執泥之弊至自¶
 　相矛盾而不一其為説亦煩矣¶
 　春秋正傳卷四¶
-
